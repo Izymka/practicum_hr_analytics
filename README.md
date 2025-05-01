@@ -1,1 +1,1 @@
-# practicum_hr_analitics
+# practicum_hr_analytics
